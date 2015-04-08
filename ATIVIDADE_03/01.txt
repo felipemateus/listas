@@ -1,0 +1,4 @@
+Atividade_03
+
+1)
+Um ponteiro é um elemento da liguagem que se permite amazenar na memória um valor de um endereço. Quando solicitado ele aponta para o o endereço em que foi solicidato. Ele pode ser usado de diversas formas inclusive para facilitar a utilização de laços, ou para se percorrer determinadas posições da memória. 

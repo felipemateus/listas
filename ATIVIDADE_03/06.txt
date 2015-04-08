@@ -1,0 +1,4 @@
+Atividade_03
+
+6.
+Não. Pois "scanf" precisa de endereço de memoria para atribuir um valor digitado. Quando se utiliza *px no "scanf" você tenta atribuir um valor a um ponteiro, logo está incorreto.Agora caso retirado o "*" estaria correto ja que se está armazenando em um endereço especifico o ao qual o ponteiro aponta (que é para x) um valor em x. 

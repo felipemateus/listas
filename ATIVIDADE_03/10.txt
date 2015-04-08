@@ -1,0 +1,8 @@
+Atividade_03
+
+10.
+endereço de i.
+i+2.
+i.
+3*i.
+i+4.

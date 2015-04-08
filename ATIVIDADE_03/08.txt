@@ -1,0 +1,10 @@
+Atividade_03
+
+8.
+main()
+{
+	int x=5;
+	int *px;
+	px=&x;
+	printf("%d",*px/5);
+}

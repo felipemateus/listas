@@ -1,0 +1,4 @@
+Atividade_03
+
+2.
+b)int *ptr;
